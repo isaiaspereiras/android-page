@@ -7,7 +7,7 @@ Cada um poderia usar os criterios que achasse melhor para construir o site.
 	em nosso portifolio do github.com
 
 Projeto concluido com algumas falhas de responsivdade.
-Assim que aprendido mais sobre responsividade, retornarei para concluir
+Assim que aprender mais sobre responsividade, retornarei para concluir
 esta parte do site.
 
 Agradeco a todo.
